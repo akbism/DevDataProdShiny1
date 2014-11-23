@@ -2,7 +2,7 @@
 
 This application is based on the primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates. You can get data from the word bank database and analyse any two indicators and their mutual relationship over period of time. 
 
-Source code is available on the [GitHub](https://github.com/akbism/developing-data-products-shiny).
+Source code is available on the [GitHub](https://github.com/akbism/DevDataProdShiny1).
 
 Process to use the app:
 
